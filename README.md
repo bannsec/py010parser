@@ -1,6 +1,9 @@
 [![master Build Status](https://travis-ci.org/d0c-s4vage/py010parser.svg?branch=master)](https://travis-ci.org/d0c-s4vage/py010parser) - master
 [![develop Build Status](https://travis-ci.org/d0c-s4vage/py010parser.svg?branch=develop)](https://travis-ci.org/d0c-s4vage/py010parser) - develop
 
+# Why StegoVeritas Branch?
+StegoVeritas has other install dependencies that require a more recent version of six. My PR has lingered at the original repo, so i'm forced to release my own version for a simple six requirement change. Could probably just go back to the original once/if it's merged.
+
 # py010parser
 
 py010parser is a python library that can parse 010 templates.
