@@ -31,7 +31,7 @@ class sdist(_sdist):
 
 setup(
     # metadata
-    name             = 'py010parser',
+    name             = 'stegoveritas-py010parser',
     description      = '010 template parser in Python',
     long_description = """
 		py010parser is a modified fork of the pycparser project. It is
@@ -43,7 +43,7 @@ setup(
     author       = 'James Johnson',
     maintainer   = 'James Johnson',
     author_email = 'd0c.s4vage@gmail.com',
-    url          = 'https://github.com/d0c-s4vage/py010parser',
+    url          = 'https://github.com/bannsec/py010parser/tree/stegoveritas',
     platforms    = 'Cross Platform',
     classifiers  =  [
         'Programming Language :: Python :: 2',
